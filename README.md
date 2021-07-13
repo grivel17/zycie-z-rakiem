@@ -1,1 +1,1 @@
-# zycie-z-rakiem
+Repository contains files for web zyciezrakiem.org. 
